@@ -1,0 +1,29 @@
+{
+  "name": "security-minigame",
+  "version": "1.0.0",
+  "description": "minigame",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch ./assets/scss/styles.scss ./assets/css/styles.css "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiloBeltran24/security-minigame.git"
+  },
+  "keywords": [
+    "HTML",
+    "JS",
+    "CSS"
+  ],
+  "author": "Christian Camilo Beltran Fonseca <cambelf.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CamiloBeltran24/security-minigame/issues"
+  },
+  "homepage": "https://github.com/CamiloBeltran24/security-minigame#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "sass-loader": "^12.6.0"
+  }
+}
